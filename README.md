@@ -154,5 +154,6 @@ This package contains utility classes, such as for Redis caching.
 
  
 
-git config --global user.name "lokeshsharma123456"
-git config --global user.email "lokeshsharma123456@gmail.com"
+
+git clone https://github.com/lokeshsharma123456/LearnJava.git
+git remote set-url origin https://github.com/lokeshsharma123456/LearnJava.git
