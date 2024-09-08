@@ -151,9 +151,3 @@ This package contains utility classes, such as for Redis caching.
 
 ````
 
-
- 
-
-
-git clone https://github.com/lokeshsharma123456/LearnJava.git
-git remote set-url origin https://github.com/lokeshsharma123456/LearnJava.git
